@@ -1,10 +1,5 @@
 ## Authors
-<h1>Yael Karat</h1>
-<p>Email: yaelkara@edu.hac.ac.il</p>
-
-<h1>Amit Lap</h1>
-<p>Email: amitlap@edu.hac.ac.il</p>
-<br>
+**Yael K.** & **Amit Lap** - [@amit-lap](https://github.com/amit-lap)
 
 ### Project Description:
 
